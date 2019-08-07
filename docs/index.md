@@ -1,12 +1,3 @@
----
-title: technical-notes
-meta:
-  - name: description
-    content: 調べたことをひたすらメモするだけの備忘録です。
-sidebar: auto
----
-<!-- YAML Front Matterここまで -->
-
 <!-- main -->
 ## Hello
 VuePress!!!
