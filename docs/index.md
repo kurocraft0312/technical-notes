@@ -1,9 +1,31 @@
 ---
-title: すごいドキュメント
+title: technical-notes
 meta:
   - name: description
-    content: すごい説明
+    content: 調べたことをひたすらメモするだけの備忘録です。
+sidebar: auto
 ---
+<!-- YAML Front Matterここまで -->
 
-# Hello
+<!-- main -->
+## Hello
 VuePress!!!
+
+<!-- sidebar -->
+## technical-note
+
+### Pure JS
+
+### Vue.js
+
+### Nuxt.js
+
+### Quaser
+
+### Vuetify
+
+### VuePress
+
+### API
+
+### SEO
