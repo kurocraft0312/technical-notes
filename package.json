@@ -1,0 +1,28 @@
+{
+  "name": "technical-notes",
+  "version": "1.0.0",
+  "description": "My technical notes(docs).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurocraft0312/technical-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurocraft0312/technical-notes/issues"
+  },
+  "homepage": "https://github.com/kurocraft0312/technical-notes#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
