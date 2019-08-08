@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kurocraft0312/technical-notes#readme",
   "devDependencies": {
+    "@vuepress/plugin-blog": "^1.2.4",
     "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
     "vuepress": "^1.0.3"
   }
