@@ -1,6 +1,6 @@
 module.exports = {
     title: 'technical-notes',
-    description: '調べたことをひたすらメモするだけの備忘録です。',
+    description: 'My technical notes.',
     locales: {
         '/': {
             lang: 'ja-JP',

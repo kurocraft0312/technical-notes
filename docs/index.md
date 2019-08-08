@@ -1,3 +1,9 @@
+---
+home: true
+sidebar: false
+footer: MIT Licensed | © 2019 kurocraft0312
+---
+
 <!-- main -->
 ## Hello
 VuePress!!!
