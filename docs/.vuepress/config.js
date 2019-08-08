@@ -6,6 +6,14 @@ module.exports = {
             lang: 'ja-JP',
         },
     },
+    plugins: [
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': '' // UA-00000000-0
+            }
+        ]
+    ],
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
