@@ -6,18 +6,18 @@ module.exports = {
             lang: 'ja-JP',
         },
     },
-    plugins: [
-        [
-            '@vuepress/google-analytics',
-            {
-                'ga': '' // UA-00000000-0
-            },
-            '@vuepress/blog',
-            {
-                /*options*/
-            },
-        ]
-    ],
+    // plugins: [
+    //     [
+    //         '@vuepress/google-analytics',
+    //         {
+    //             'ga': '' // UA-00000000-0
+    //         },
+    //         '@vuepress/blog',
+    //         {
+    //             /*options*/
+    //         },
+    //     ]
+    // ],
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
