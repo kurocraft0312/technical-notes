@@ -3,7 +3,7 @@ module.exports = {
     description: 'My technical notes.',
     locales: {
         '/': {
-            lang: 'ja-JP',
+            lang: 'ja',
         },
     },
     plugins: [
