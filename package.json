@@ -10,6 +10,7 @@
     "build": "vuepress build docs",
     "dev": "vuepress dev docs",
     "eject": "vuepress eject docs",
+    "info": "vuepress info docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
