@@ -1,6 +1,6 @@
 module.exports = {
     head: [
-        ['link', { rel: 'stylesheet', href: '/' }]
+        ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.10.1/css/all.css' }]
     ],
     title: 'technical-notes',
     description: 'My technical notes.',

@@ -3,8 +3,8 @@
         <h2>記事一覧</h2>
         <div v-for="post in posts">
             <h2><a v-bind:href="post.path">{{post.title}}</a></h2>
-            <p>{{post.frontmatter.date}}</p>
-            <a v-bind:href="post.path">{{post.frontmatter.category}}</a>
+            <p><i class="far fa-calendar fa-fw"></i>{{post.frontmatter.date}}</p>
+            <a v-bind:href="post.path"><i class="fas fa-folder fa-fw"></i>{{post.frontmatter.category}}</a>
             <!-- <p>{{post.frontmatter.description}}</p>
             <a v-bind:href="post.path">続きを読む</a> -->
         </div>
