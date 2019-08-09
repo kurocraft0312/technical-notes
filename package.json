@@ -28,6 +28,7 @@
     "@vuepress/plugin-blog": "^1.2.4",
     "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
     "gulp": "^4.0.2",
+    "markdown-it-fontawesome": "^0.3.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
     "vuepress": "^1.0.3"
