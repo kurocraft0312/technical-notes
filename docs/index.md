@@ -1,5 +1,4 @@
 ---
-home: true
 footer: MIT Licensed | © 2019 kurocraft0312
 ---
 <PostList />
