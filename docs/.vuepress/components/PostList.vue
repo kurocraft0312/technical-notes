@@ -1,5 +1,6 @@
 <template>
     <div>
+        <h2>記事一覧</h2>
         <div v-for="post in posts">
             <h2><a v-bind:href="post.path">{{post.title}}</a></h2>
             <p>{{post.frontmatter.date}}</p>

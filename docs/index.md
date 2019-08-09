@@ -2,17 +2,17 @@
 home: true
 footer: MIT Licensed | © 2019 kurocraft0312
 ---
-## トップページ
-ようこそ
 <PostList />
 
 <!-- main -->
-<!-- ## Hello
-VuePress!!! -->
+## Hello
+VuePress!!!
 
 <!-- sidebar -->
-<!-- ## technical-note
-
+## technical-note
+あ
+あう
+あう
 ### Pure JS
 
 ### Vue.js
@@ -27,4 +27,4 @@ VuePress!!! -->
 
 ### API
 
-### SEO -->
+### SEO
