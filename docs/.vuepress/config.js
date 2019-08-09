@@ -1,4 +1,7 @@
 module.exports = {
+    head: [
+        ['link', { rel: 'stylesheet', href: '/' }]
+    ],
     title: 'technical-notes',
     description: 'My technical notes.',
     locales: {
