@@ -5,14 +5,12 @@ footer: MIT Licensed | © 2019 kurocraft0312
 <PostList />
 
 <!-- main -->
-## Hello
-VuePress!!!
+<!-- ## Hello
+VuePress!!! -->
 
 <!-- sidebar -->
-## technical-note
-あ
-あう
-あう
+<!-- ## technical-note
+
 ### Pure JS
 
 ### Vue.js
@@ -27,4 +25,4 @@ VuePress!!!
 
 ### API
 
-### SEO
+### SEO -->

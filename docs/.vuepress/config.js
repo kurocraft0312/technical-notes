@@ -19,7 +19,6 @@ module.exports = {
         ]
     ],
     themeConfig: {
-        sidebar: 'auto',
         nav: [
             { text: 'Home', link: '/' },
             { text: 'About', link: '/about.html' },
@@ -31,10 +30,10 @@ module.exports = {
                 ] },
             { text: 'Contact', link: '/contact.html' }
         ],
-        // sidebar: [
-        //     ['/','Home'],
-        //     ['/about/','About']
-        // ],
-        // sidebarDepth: 2
+        sidebar: [
+            ['/','Home'],
+            ['/about/','About']
+        ],
+        sidebarDepth: 2
     }
 }
