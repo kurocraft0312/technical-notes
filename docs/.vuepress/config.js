@@ -34,9 +34,17 @@ module.exports = {
             { text: 'Contact', link: '/contact.html' }
         ],
         sidebar: [
-            ['/','Home'],
+            ['/','TOP'],
             ['/about/','About']
+            // {
+            //     title: 'Category',   // required
+            //     path: '/',      // optional, which should be a absolute path.
+            //     collapsable: true, // optional, defaults to true(trueにするとグループ化する機能がONになる)
+            //     sidebarDepth: 1,    // optional, defaults to 1
+            //     children: [
+            //       'Vue',
+            //     ]
+            // }
         ],
-        sidebarDepth: 2
     }
 }

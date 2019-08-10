@@ -1,7 +1,17 @@
 // sidebar
 .page
+    padding-left initial
     padding-right $sidebarWidth
 
 .sidebar
+    left initial
     right 0
     border-right 1px solid $borderColor
+
+@media (max-width: $MQMobile)
+    .page
+        padding-right 0
+
+@media (max-width: 719px)
+    .sidebar
+        left: 0;
